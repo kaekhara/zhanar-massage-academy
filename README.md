@@ -2,6 +2,20 @@
 
 A bilingual iOS learning app and companion web portal for a massage academy. Built with SwiftUI and a Node.js web server, with Supabase authentication and content storage.
 
+<p align="center">
+  <img src="web/public/assets/mark.png" alt="ZHANAR Massage Academy" width="140" />
+</p>
+
+## Screenshots
+
+| Course overview | Sign in |
+| --- | --- |
+| ![Bilingual course overview in the iOS app](docs/screenshots/course-overview-ru.png) | ![Russian sign-in screen in the iOS app](docs/screenshots/sign-in-ru.png) |
+
+The web portal uses academy imagery and shares the course catalog and account system with the iOS app.
+
+![Massage studio image used by the academy web portal](web/public/assets/studio.webp)
+
 ## What it includes
 
 - Kazakh and Russian interface
