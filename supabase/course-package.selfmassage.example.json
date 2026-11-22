@@ -1,0 +1,349 @@
+{
+  "course": {
+    "id": "com.zhanar.course.selfmassage",
+    "store_product_id": "com.zhanar.course.selfmassage",
+    "title": "Өзіне-өзі массаж",
+    "subtitle": "30 сабақ · 7 бөлім",
+    "description": "ZHANAR массаж мектебінен өзіне-өзі массаж жасау курсы.",
+    "sort_order": 2,
+    "cover_image_file": "images/selfmassage-cover.jpg",
+    "sections": [
+      {
+        "id": "com.zhanar.course.selfmassage.preparation",
+        "title": "Массажға дайындық",
+        "sort_order": 1,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.selfmassage.preparation.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/preparation-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.preparation.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/preparation-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.preparation.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/preparation-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.selfmassage.face",
+        "title": "Бет массажы",
+        "sort_order": 2,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.selfmassage.face.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/face-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.face.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/face-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.face.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/face-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.face.04",
+            "title": "4-сабақ",
+            "sort_order": 4,
+            "video_file": "videos/face-04.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.face.05",
+            "title": "5-сабақ",
+            "sort_order": 5,
+            "video_file": "videos/face-05.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.selfmassage.neck_shoulders",
+        "title": "Мойын және иық",
+        "sort_order": 3,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.selfmassage.neck_shoulders.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/neck_shoulders-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.neck_shoulders.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/neck_shoulders-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.neck_shoulders.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/neck_shoulders-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.neck_shoulders.04",
+            "title": "4-сабақ",
+            "sort_order": 4,
+            "video_file": "videos/neck_shoulders-04.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.selfmassage.hands",
+        "title": "Қол массажы",
+        "sort_order": 4,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.selfmassage.hands.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/hands-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.hands.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/hands-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.hands.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/hands-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.hands.04",
+            "title": "4-сабақ",
+            "sort_order": 4,
+            "video_file": "videos/hands-04.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.selfmassage.legs",
+        "title": "Аяқ массажы",
+        "sort_order": 5,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.selfmassage.legs.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/legs-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.legs.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/legs-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.legs.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/legs-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.legs.04",
+            "title": "4-сабақ",
+            "sort_order": 4,
+            "video_file": "videos/legs-04.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.legs.05",
+            "title": "5-сабақ",
+            "sort_order": 5,
+            "video_file": "videos/legs-05.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.selfmassage.aftercare",
+        "title": "Қайталау және күтім",
+        "sort_order": 6,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.selfmassage.aftercare.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/aftercare-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.aftercare.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/aftercare-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.aftercare.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/aftercare-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.aftercare.04",
+            "title": "4-сабақ",
+            "sort_order": 4,
+            "video_file": "videos/aftercare-04.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.selfmassage.conclusion",
+        "title": "Қорытынды",
+        "sort_order": 7,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.selfmassage.conclusion.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/conclusion-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.conclusion.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/conclusion-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.conclusion.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/conclusion-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.conclusion.04",
+            "title": "4-сабақ",
+            "sort_order": 4,
+            "video_file": "videos/conclusion-04.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.selfmassage.conclusion.05",
+            "title": "5-сабақ",
+            "sort_order": 5,
+            "video_file": "videos/conclusion-05.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      }
+    ],
+    "title_ru": "",
+    "subtitle_ru": "",
+    "description_ru": ""
+  }
+}

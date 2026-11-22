@@ -1,0 +1,86 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "F0E740E6-76D1-47DE-84B3-F50E71A723B9",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "14990",
+      "familyShareable" : false,
+      "internalID" : "1A9B443E",
+      "localizations" : [
+        {
+          "description" : "Доступ к стандартному курсу массажа.",
+          "displayName" : "Стандартный массаж ZHANAR",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Access to the ZHANAR standard massage course.",
+          "displayName" : "ZHANAR Standard Massage",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.zhanar.course.standard",
+      "referenceName" : "ZHANAR Standard Massage Course",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "4990",
+      "familyShareable" : false,
+      "internalID" : "2B9C554F",
+      "localizations" : [
+        {
+          "description" : "Доступ к курсу самомассажа.",
+          "displayName" : "Самомассаж ZHANAR",
+          "locale" : "ru"
+        },
+        {
+          "description" : "Access to the ZHANAR self-massage course.",
+          "displayName" : "ZHANAR Self Massage",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.zhanar.course.selfmassage",
+      "referenceName" : "ZHANAR Self Massage Course",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "0",
+    "_askToBuyEnabled" : false,
+    "_billingGracePeriodEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_disableDialogs" : false,
+    "_failTransactionsEnabled" : false,
+    "_locale" : "ru",
+    "_renewalBillingIssuesEnabled" : false,
+    "_storefront" : "KAZ",
+    "_storeKitErrors" : [
+
+    ],
+    "_timeRate" : 0
+  },
+  "subscriptionBundleGroups" : [
+
+  ],
+  "subscriptionGroups" : [
+
+  ],
+  "subscriptionSuiteGroups" : [
+
+  ],
+  "version" : {
+    "major" : 6,
+    "minor" : 3
+  }
+}

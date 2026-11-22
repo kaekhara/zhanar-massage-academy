@@ -1,0 +1,313 @@
+{
+  "course": {
+    "id": "com.zhanar.course.standard",
+    "store_product_id": "com.zhanar.course.standard",
+    "title": "Табысты массаж курсы Стандарт",
+    "subtitle": "24 сабақ · 9 бөлім",
+    "description": "ZHANAR массаж мектебінен массаж бойынша оқу курсы.",
+    "sort_order": 1,
+    "cover_image_file": "images/standard-cover.jpg",
+    "sections": [
+      {
+        "id": "com.zhanar.course.standard.anatomy",
+        "title": "Анатомия",
+        "sort_order": 1,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.anatomy.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/anatomy-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.anatomy.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/anatomy-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.anatomy.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/anatomy-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.standard.diagnostics",
+        "title": "Диагностика жасау",
+        "sort_order": 2,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.diagnostics.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/diagnostics-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.diagnostics.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/diagnostics-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.diagnostics.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/diagnostics-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.standard.therapeutic",
+        "title": "Емдік массаж",
+        "sort_order": 3,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.therapeutic.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/therapeutic-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.therapeutic.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/therapeutic-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.therapeutic.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/therapeutic-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.therapeutic.04",
+            "title": "4-сабақ",
+            "sort_order": 4,
+            "video_file": "videos/therapeutic-04.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.standard.cupping",
+        "title": "Банка қою",
+        "sort_order": 4,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.cupping.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/cupping-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.cupping.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/cupping-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.standard.fire",
+        "title": "От массаж",
+        "sort_order": 5,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.fire.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/fire-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.fire.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/fire-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.fire.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/fire-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.standard.vacuum",
+        "title": "Вакуум массаж",
+        "sort_order": 6,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.vacuum.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/vacuum-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.vacuum.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/vacuum-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.standard.lymphatic",
+        "title": "Лимфодренажный массаж",
+        "sort_order": 7,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.lymphatic.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/lymphatic-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.lymphatic.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/lymphatic-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.lymphatic.03",
+            "title": "3-сабақ",
+            "sort_order": 3,
+            "video_file": "videos/lymphatic-03.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.standard.honey",
+        "title": "Бал массаж",
+        "sort_order": 8,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.honey.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/honey-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.honey.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/honey-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      },
+      {
+        "id": "com.zhanar.course.standard.conclusion",
+        "title": "Қорытынды",
+        "sort_order": 9,
+        "lessons": [
+          {
+            "id": "com.zhanar.course.standard.conclusion.01",
+            "title": "1-сабақ",
+            "sort_order": 1,
+            "video_file": "videos/conclusion-01.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          },
+          {
+            "id": "com.zhanar.course.standard.conclusion.02",
+            "title": "2-сабақ",
+            "sort_order": 2,
+            "video_file": "videos/conclusion-02.mp4",
+            "is_preview": false,
+            "title_ru": "",
+            "description_ru": ""
+          }
+        ],
+        "title_ru": "",
+        "description_ru": ""
+      }
+    ],
+    "title_ru": "",
+    "subtitle_ru": "",
+    "description_ru": ""
+  }
+}

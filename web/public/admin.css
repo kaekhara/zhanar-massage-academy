@@ -1,0 +1,40 @@
+.admin-layout{
+  display:grid;
+  grid-template-columns:minmax(190px,1fr) minmax(0,2fr);
+  gap:2rem;
+  align-items:start;
+}
+.tree,.admin-tools{
+  background:var(--panel,#fff);
+  padding:1.1rem;
+  border:1px solid var(--line,#ddd);
+  border-radius:16px;
+}
+.tree details details{
+  margin-left:12px;
+}
+.tree details{
+  border-top:1px solid var(--line,#ddd);
+  margin-top:.65rem;
+  padding-top:.4rem;
+}
+.tree button{
+  margin:.35rem 0;
+}
+.tree summary{
+  padding:.5rem 0;
+  cursor:pointer;
+  overflow-wrap:anywhere;
+}
+.admin-tools{
+  margin-top:1rem;
+}
+.admin-pane input[type=checkbox]{
+  width:1.4rem;
+  height:1.4rem;
+}
+@media(max-width:700px){
+  .admin-layout{
+    grid-template-columns:1fr;
+  }
+}
